@@ -1,0 +1,192 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&family=PT+Sans&family=Pacifico&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Fugaz+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Playpen+Sans:wght@300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@1,500&display=swap');
+
+@media screen and (min-width: 501px) {
+
+}
+
+body {
+
+    background-image: url(../Img/fondo-abstracto-lluvia-pixeles_23-2148355959.jpg); 
+    background-position: center center;
+    background-repeat: repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: #aeacf2;
+}
+
+
+.header-title {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 0px;
+    margin: 1px;
+    border: solid 0px;
+   
+}
+
+
+.content {
+        margin-top: 30px;
+        padding: 20px;
+        width: 100%;
+}
+
+.btn {
+
+    justify-content: center;
+    margin-top: 0%;
+    text-decoration: none;
+    color:#3c4af9;
+}
+    
+
+.colour {
+    background: linear-gradient(#f4fc70, #f99aaa);
+    background-size: auto;
+    font-size: 19px;
+    margin-top: 0%;
+    padding: 16px 32px;
+    border-radius: 12px;
+    color:#582192;
+    font-family: 'Berkshire Swash', serif;
+    -webkit-text-stroke: 1px;
+   
+   
+
+}
+
+.title {
+    text-align: center;
+    background-color: #aeacf2;
+    padding: 12px;
+    margin: 4%;
+    border:double 16px;
+    border-color: #f236c6;
+
+}
+
+h1 {
+    font-family: 'Berkshire Swash', serif;
+    -webkit-text-stroke: 1px #3c4af9;
+    color:#ff81ff;
+    font-size: 40px;
+    background: linear-gradient(#5560fa, rgb(244, 164, 204) )
+    
+
+}
+
+
+h2 {
+    text-align: center;
+   font-family: 'Fugaz One', sans-serif;
+   font-size: 30px;
+   color:#f99aaa;
+   -webkit-text-stroke: 1px #3c4af9;
+
+
+
+}
+
+h3 { 
+    color: #582192;
+    text-align: right;
+    border-bottom: #582192;
+    font-size: 40px;
+    font-family: 'Dancing Script', cursive;
+
+}
+
+
+.Deluxe {
+
+    height: 220px;
+    width: 250px;
+    border-radius: 50%;
+    margin-left: 250px;
+    margin-top: 80px;
+    border: 2px solid rgb(104, 55, 104);
+    border-style: double;
+    border-width: 1em;
+    margin: 4px;  
+        
+}
+   
+
+
+.mort {
+    float: left;
+    width: 50%;
+    margin: 8px;
+}
+
+p { 
+    font-family: 'Playpen Sans', 'cursive';
+    text-align: left;
+    font-size: 20px;
+    color: #020641;
+    letter-spacing:1px;
+    margin-top: 2%;
+    padding:1%;
+
+}
+
+
+.mario8{
+    float: right;
+    margin: 1%;
+}
+
+.kombat11 
+        { 
+ float: left;
+ margin: 2%;
+    
+}
+
+.Wii {
+    display: flex;
+
+}
+
+h4 {
+    font-size: 27px;
+    font-family: 'Cabin', sans-serif;
+    color: #ad1fef;
+
+}
+
+.Mario {
+    margin: 3px;
+    padding: 2%;
+}
+
+.Daisy {
+    margin: 3px;
+
+      
+}
+
+.Princess {
+    margin: 3px;
+}
+
+.Island {
+    margin: 3px;
+}
+
+.TittleMK {
+    margin-top: 10%;
+}
+
+
+
