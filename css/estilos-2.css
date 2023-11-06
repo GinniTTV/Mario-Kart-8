@@ -77,10 +77,9 @@ body {
 
 h1 {
     font-family: 'Berkshire Swash', serif;
-    -webkit-text-stroke: 1px #3c4af9;
-    color:#ff81ff;
+    -webkit-text-stroke: 1px rgb(19, 0, 37)239, 186, 195;
+    color: pink;
     font-size: 40px;
-    background: linear-gradient(#5560fa, rgb(244, 164, 204) )
     
 
 }
@@ -133,7 +132,7 @@ p {
     font-family: 'Playpen Sans', 'cursive';
     text-align: left;
     font-size: 20px;
-    color: #020641;
+    color: pink;
     letter-spacing:1px;
     margin-top: 2%;
     padding:1%;
@@ -159,13 +158,25 @@ p {
 }
 
 h4 {
-    font-size: 27px;
+    font-size: 26px;
     font-family: 'Cabin', sans-serif;
     color: #ad1fef;
+    letter-spacing: 3px;
+    margin-left: 3%;  
+  
+
 
 }
 
-.Mario {
+.Future {
+    border-radius: 85px 25px;
+    border: 6px solid rgb(104, 55, 104);
+    border-style: double;
+    border-width: em;
+    
+}
+
+.Duo-Img-Principal {
     margin: 3px;
     padding: 2%;
 }
@@ -188,5 +199,13 @@ h4 {
     margin-top: 10%;
 }
 
+.Volver {
+    font-family: 'Playpen Sans', 'cursive';
+    color:#f99aaa;
+}
 
+.MortalKO {
+    display: flex;
+}
+   
 
