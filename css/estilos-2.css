@@ -128,11 +128,12 @@ h3 {
     margin: 8px;
 }
 
-p { 
+
+.personalizada {
     font-family: 'Playpen Sans', 'cursive';
     text-align: left;
     font-size: 20px;
-    color: pink;
+    color:#020641;
     letter-spacing:1px;
     margin-top: 2%;
     padding:1%;
