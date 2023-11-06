@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&family=PT+Sans&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@1,300&display=swap');
+
 body{
     background-color:#e11364;
   
@@ -152,6 +154,13 @@ h4 {
 }
 
 .dlx8 {
+    color:white;
     display: flex;
+    font-family: 'Nunito', sans-serif;
 }
 
+.MortalKO {
+    color: white;
+    display: flex;
+    font-family: 'Nunito', sans-serif;
+}

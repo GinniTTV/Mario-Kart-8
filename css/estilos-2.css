@@ -200,4 +200,12 @@ h4 {
     display: flex;
 }
    
+p {
+    color:#f99aaa;
+    font-family:'Playpen Sans', 'cursive';
+    font-size: 20px;
+    letter-spacing: 1px;
+    margin-top: 2%;
+    padding: 1%;
+}
 
