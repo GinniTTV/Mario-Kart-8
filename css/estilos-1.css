@@ -145,10 +145,13 @@ h4 {
 }
 
 .Duo-Img-Principal {
-    
+
     margin: 3px;
     padding: 2%;
+    
 }
 
-
+.dlx8 {
+    display: flex;
+}
 
