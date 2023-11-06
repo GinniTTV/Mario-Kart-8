@@ -108,15 +108,7 @@ h3 {
 
 .Deluxe {
 
-    height: 220px;
-    width: 250px;
-    border-radius: 50%;
-    margin-left: 250px;
-    margin-top: 80px;
-    border: 2px solid rgb(104, 55, 104);
-    border-style: double;
-    border-width: 1em;
-    margin: 4px;  
+  float: right;
         
 }
    
@@ -124,8 +116,7 @@ h3 {
 
 .mort {
     float: left;
-    width: 50%;
-    margin: 8px;
+   
 }
 
 
@@ -178,8 +169,10 @@ h4 {
 }
 
 .Duo-Img-Principal {
-    margin: 3px;
-    padding: 2%;
+
+   margin: 3px;
+   padding: 2%;
+
 }
 
 .img-secundaria {
@@ -207,5 +200,19 @@ p {
     letter-spacing: 1px;
     margin-top: 2%;
     padding: 1%;
+}
+
+.foto-principal {
+   
+ 
+    height: 220px;
+    width: 220px;
+    border-radius: 50%;
+   
+   
+    border: 2px solid rgb(104, 55, 104);
+    border-style: double;
+    border-width: 1em;
+
 }
 
