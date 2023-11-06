@@ -135,5 +135,20 @@ h4 {
     margin-top: 6%;
 }
 
+.Volver {
+    font-family: 'Playpen Sans', 'cursive';
+    color:#f99aaa;
+}
+
+.Descripción-original {
+    font-size: 160%;
+}
+
+.Duo-Img-Principal {
+    
+    margin: 3px;
+    padding: 2%;
+}
+
 
 
